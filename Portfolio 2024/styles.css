@@ -1,0 +1,46 @@
+/* LEGACY */
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+
+html {
+	height: 100%;
+}
+/**********/
+
+/* UTILITIES */
+.row {
+	height: 100%;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width: 100%;
+}
+/**********/
+
+/* COMPONENTS */
+.sidebar {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	border: 3px solid black;
+  	height: 100%;
+}
+/**********/
+
+/**********/
+/* CONTENT */
+
+/* RESUME */
+.resume {
+	position: absolute;
+	overflow-y: scroll;
+}
+
+
